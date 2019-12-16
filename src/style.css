@@ -1,0 +1,29 @@
+.App {
+  background-color: lightgrey;
+}
+
+.Header {
+  text-align: center;
+  color: #788eb8;
+}
+
+.Button {
+  background-color: ;
+  font-size: 20px;
+  color: black;
+}
+
+.List {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
